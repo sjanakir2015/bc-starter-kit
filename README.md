@@ -1,5 +1,11 @@
 # blockchain-starter-kit
 
+:warning: :construction: :construction_worker:
+
+> **DISCLAIMER**: this starter kit is a **prototype** that is currently under development by the IBM Blockchain team. As a result, it may dramatically change, have major bugs, completly fail to work, or disappear altogether. There is **no** officially provided support for this starter kit; any bugs that you report may go unfixed for a longer period of time than you're comfortable with. If you're happy with all of that, then please carry on reading! As we work on this starter kit, we're extremely interested in your feedback about how we could make it better, so please do let us know by raising issues on this GitHub repository!
+
+:warning: :construction: :construction_worker:
+
 Hello! This GitHub repository contains a starter kit for building a blockchain application using the IBM Blockchain Platform. The starter kit includes everything you need for developing smart contracts, exposing them via RESTful APIs, and building end user applications. It also includes tooling that allows you to set up an IBM Cloud DevOps toolchain that will automatically deploy your blockchain application, and any future changes you make, to the IBM Cloud.
 
 Follow the steps below to get started:
