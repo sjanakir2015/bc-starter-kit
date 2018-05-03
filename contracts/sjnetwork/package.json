@@ -1,0 +1,22 @@
+{
+  "name": "sjnetwork",
+  "version": "0.0.1",
+  "description": "to go to Toolchain",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "author": "SJ",
+  "email": "sowmya@ibm.com",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "composer-admin": "^0.18.1",
+    "composer-client": "^0.18.1",
+    "composer-common": "^0.18.1",
+    "composer-connector-embedded": "^0.18.1",
+    "chai": "latest",
+    "eslint": "latest",
+    "istanbul": "latest",
+    "mkdirp": "latest",
+    "mocha": "latest"
+  }
+}
