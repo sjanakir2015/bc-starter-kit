@@ -1,7 +1,7 @@
 {
   "name": "sjnetwork",
   "version": "0.0.1",
-  "description": "to go to Toolchain",
+  "description": "to go to Toolchain-after adding dist/*.bna",
   "scripts": {
     "test": "mocha --recursive"
   },
