@@ -6,6 +6,7 @@ namespace org.ibm.bc
 
 participant User identified by email {
   o String email
+  o String name
 }
 
 asset SampleAsset identified by assetId {
