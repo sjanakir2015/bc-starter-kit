@@ -12,6 +12,7 @@ participant User identified by email {
 asset SampleAsset identified by assetId {
   o String assetId
   o String value
+  o String description
 }
 
 transaction ChangeAssetValue {
